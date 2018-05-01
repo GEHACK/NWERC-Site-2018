@@ -17,7 +17,7 @@ Questions regarding this call can be posed to: <a href='mailto:nwerc@tue.nl'>nwe
 </p>
 <h3 style="margin-top:2em;">Selection Procedure</h3>
 <p>
-The deadline for submitting candidate problems is <b>July 24, 2018</b>.
+The deadline for submitting candidate problems is <b>July 22, 2018</b>.
 </p>
 <p>
 The selection committee aims to select a subset of the submitted problems for use in the contest by mid-August. Selection criteria include problem novelty, and the goal of making a well-balanced problem set in terms of algorithmic topics, and degrees of problem difficulty. You are encouraged to submit at least two candidate problems for consideration rather than one.
@@ -136,8 +136,8 @@ You can find example packages <a href="/files/nwerc2017all.tar.bz2">here</a>
 <noscript>
 <div class='submenu baseText' id='submenu-2'>
 </noscript>
-The candidate problems are highly confidential. While not mandatory we suggest that the ZIP files are delivered to us in a safe (encrypted) manner. You can download the <a href="/files/pgp.key">attached public PGP key</a> when submitting a candidate problem. If you have a PGP key, please use it to sign your submission.<br>
-Send the submission to: <a href="nwerc@tue.nl">nwerc@tue.nl</a>.
+The candidate problems are highly confidential. While not mandatory we suggest that the ZIP files are delivered to us in a safe (encrypted) manner. You can download the <a href="/files/pgp.asc">public PGP key</a> when submitting a candidate problem. If you have a PGP key, please use it to sign your submission.<br>
+Send the submission to: <a href="mailto:nwerc@tue.nl">nwerc@tue.nl</a>.
 <p>
-If you haven't used PGP for encrypting before, you are encouraged to send an encrypted e-mail with the text "A little nonsense" to <a href="nwerc@tue.nl">nwerc@tue.nl</a> to practice before sending your submission.
+If you haven't used PGP for encrypting before, you are encouraged to send an encrypted e-mail with the text "A little nonsense" to <a href="mailto:nwerc@tue.nl">nwerc@tue.nl</a> to practice before sending your submission.
 </p>

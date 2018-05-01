@@ -14,9 +14,11 @@ If you have any questions, please drop us an email at: nwerc "at" gewis "dot" nl
 
 ## Jury
 - Arthur van Goethem (Head)
+- Per Austin
+- Jeroen Bransen
 - Robin Lee
 - Lukas Polacek
-- ...
+- Tobias Werth
 
 ## Local committee
 - Rick Wouters
