@@ -17,7 +17,7 @@ Questions regarding this call can be posed to: <a href='mailto:nwerc@tue.nl'>nwe
 </p>
 <h3 style="margin-top:2em;">Selection Procedure</h3>
 <p>
-The deadline for submitting candidate problems is <b>July 24, 2018</b>.
+The deadline for submitting candidate problems is <b>July 22, 2018</b>.
 </p>
 <p>
 The selection committee aims to select a subset of the submitted problems for use in the contest by mid-August. Selection criteria include problem novelty, and the goal of making a well-balanced problem set in terms of algorithmic topics, and degrees of problem difficulty. You are encouraged to submit at least two candidate problems for consideration rather than one.
