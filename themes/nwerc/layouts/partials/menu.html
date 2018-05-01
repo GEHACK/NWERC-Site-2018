@@ -1,0 +1,8 @@
+    <ul>
+        {{ $currentPage := . }}
+
+             <li><a href="/">Home</a></li>
+        {{ range .Site.RegularPages }}
+             <li><a href="{{ .URL }}">{{ .LinkTitle }}&nbsp;</a></li>
+        {{ end }}
+    </ul>

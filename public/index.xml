@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NWERC 2018</title>
+    <link>http://example.org/</link>
+    <description>Recent content on NWERC 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Apr 2018 23:41:52 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CFP</title>
+      <link>http://example.org/cfp/</link>
+      <pubDate>Mon, 30 Apr 2018 23:41:52 +0200</pubDate>
+      
+      <guid>http://example.org/cfp/</guid>
+      <description>Introduction  We are pleased to announce the Call for Problems (CfP) for the 2018 edition of the NWERC programming contest.  This contest will take place at Eindhoven University of Technology, from 23 to 25 November, 2018. Submitters of selected candidate problems will become part of the NWERC 2018 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be present at the event.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 30 Apr 2018 23:41:55 +0200</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description> Contact If you have any questions, please drop us an email at: nwerc &amp;ldquo;at&amp;rdquo; gewis &amp;ldquo;dot&amp;rdquo; nl
+Contest direction  Kevin Verbeek Mart Pluijmaekers (deputy)  Jury  Arthur van Goethem (Head) Robin Lee Lukas Polacek &amp;hellip;  Local committee  Rick Wouters Kevin Jillissen Bart van de Hesseweg Tobin van den Hurk Henk van der Laan Nicky Gerritsen Bas Gieling &amp;hellip;  </description>
+    </item>
+    
+  </channel>
+</rss>

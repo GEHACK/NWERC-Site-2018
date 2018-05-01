@@ -1,0 +1,10 @@
+name = "NWERC Theme"
+description = "Theme used for NWERC 2018"
+homepage = "https://nwerc.eu"
+tags = ["website", "starter", "responsive", "Disqus", "blog", "Tachyons"]
+features = ["posts", "shortcodes", "related content", "comments"]
+min_version = 0.30.2
+
+[author]
+  name = "Mart Pluijmaekers"
+  homepage = "https://github.com/tuupke"
