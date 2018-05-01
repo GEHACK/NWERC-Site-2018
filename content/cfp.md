@@ -137,7 +137,7 @@ You can find example packages <a href="/files/nwerc2017all.tar.bz2">here</a>
 <div class='submenu baseText' id='submenu-2'>
 </noscript>
 The candidate problems are highly confidential. While not mandatory we suggest that the ZIP files are delivered to us in a safe (encrypted) manner. You can download the <a href="/files/pgp.asc">public PGP key</a> when submitting a candidate problem. If you have a PGP key, please use it to sign your submission.<br>
-Send the submission to: <a href="nwerc@tue.nl">nwerc@tue.nl</a>.
+Send the submission to: <a href="mailto:nwerc@tue.nl">nwerc@tue.nl</a>.
 <p>
-If you haven't used PGP for encrypting before, you are encouraged to send an encrypted e-mail with the text "A little nonsense" to <a href="nwerc@tue.nl">nwerc@tue.nl</a> to practice before sending your submission.
+If you haven't used PGP for encrypting before, you are encouraged to send an encrypted e-mail with the text "A little nonsense" to <a href="mailto:nwerc@tue.nl">nwerc@tue.nl</a> to practice before sending your submission.
 </p>
