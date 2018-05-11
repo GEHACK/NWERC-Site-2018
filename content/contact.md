@@ -22,7 +22,7 @@ If you have any questions, please drop us an email at: nwerc "at" gewis "dot" nl
 
 ## Local committee
 - Rick Wouters
-- Kevin Jillissen
+- Kevin Jilissen
 - Tobin van den Hurk
 - Henk van der Laan
 - Nicky Gerritsen
