@@ -6,11 +6,11 @@ sections_weight: 10000
 ---
 
 # Contact
-If you have any questions, please drop us an email at: nwerc "at" gewis "dot" nl
+If you have any questions, please drop us an email at: contact "at" nwerc "dot" eu
 
 ## Contest direction
-- Kevin Verbeek
-- Mart Pluijmaekers (deputy)
+- Kevin Verbeek - kevin "at" nwerc "dot" eu
+- Mart Pluijmaekers (deputy)  - mart "at" nwerc "dot" eu
 
 ## Jury
 - Arthur van Goethem (Head)
@@ -27,4 +27,3 @@ If you have any questions, please drop us an email at: nwerc "at" gewis "dot" nl
 - Henk van der Laan
 - Nicky Gerritsen
 - Bas Gieling
-- ...
