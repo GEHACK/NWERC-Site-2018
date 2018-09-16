@@ -10,7 +10,7 @@ If you have any questions, please drop us an email at: contact "at" nwerc "dot" 
 
 ## Contest direction
 - Kevin Verbeek - kevin "at" nwerc "dot" eu
-- Mart Pluijmaekers (deputy)  - mart "at" nwerc "dot" eu
+- Mart Pluijmaekers (deputy)  - mart "at" nwerc "dot" eu; 0031 6 41 35 91 96 (in case of emergency)
 
 ## Jury
 - Arthur van Goethem (Head)
