@@ -13,12 +13,23 @@ If you have any questions, please drop us an email at: contact "at" nwerc "dot" 
 - Mart Pluijmaekers (deputy)  - mart "at" nwerc "dot" eu; 0031 6 41 35 91 96 (in case of emergency)
 
 ## Jury
-- Arthur van Goethem (Head)
+- Robin Lee (Head)
+- Irina Kostitsyna
 - Per Austin
 - Jeroen Bransen
-- Robin Lee
-- Lukas Polacek
+- Lukáš Poláček
 - Tobias Werth
+- Alexander Rass
+- Alexander Dietsch
+- Stefan Kraus
+- Gregor Behnke
+- Bjarki Ágúst Guðmundsson
+- Paul Wild
+- Simon Lindholm
+- Philipp Reger
+
+
+
 
 ## Local committee
 - Rick Wouters

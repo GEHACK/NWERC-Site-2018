@@ -2,7 +2,7 @@
 title: "CFP"
 date: 2018-04-30T23:41:52+02:00
 weight: 1
-draft: false
+draft: true
 ---
 <h3>Introduction</h3>
 <p>
