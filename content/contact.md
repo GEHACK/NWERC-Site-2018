@@ -15,7 +15,7 @@ If you have any questions, please drop us an email at: contact "at" nwerc "dot" 
 ## Jury
 - Robin Lee (Head)
 - Irina Kostitsyna
-- Per Austin
+- Per Austrin
 - Jeroen Bransen
 - Lukáš Poláček
 - Tobias Werth
