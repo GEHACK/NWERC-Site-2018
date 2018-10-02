@@ -5,7 +5,7 @@ weight: 7
 draft: true
 ---
 #Contest machines
-The following page contains the specifications for the contest machines, if you would like to see some tool/program added, please send us an email. Submissions after November 9<sup>st</sup> will no longer be considered.
+The following page contains the specifications for the contest machines, if you would like to see some tool/program added, please send us an email. Submissions after November 9<sup>th</sup> will no longer be considered.
 
 # Image
 The image is based on Ubuntu 16.04.5 LTS, the following programs/tools are installed
