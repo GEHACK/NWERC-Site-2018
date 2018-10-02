@@ -38,3 +38,7 @@ If you have any questions, please drop us an email at: contact "at" nwerc "dot" 
 - Henk van der Laan
 - Nicky Gerritsen
 - Bas Gieling
+- Jasper Dellaert
+- Pieter Ebbers
+- Bart van de Hesseweg
+

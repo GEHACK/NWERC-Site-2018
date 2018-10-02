@@ -21,6 +21,11 @@
     color: white;
 }
 
+#header img {
+    float: right;
+    width: 100px;
+}
+
 #header h1, #header h3 {
     margin-top: 0px;
     margin-bottom: 0px;
