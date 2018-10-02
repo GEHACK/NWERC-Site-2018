@@ -32,9 +32,6 @@
   </head>
 
   <body>
-
-
-
     <div id="main">
         <div id="header" class='no-top no-bottom'>
     {{ partial "header.html" . }}
@@ -46,6 +43,10 @@
 
     <div id="content">
       {{ block "main" . }}{{ end }}
+    </div>
+
+    <div id="footer">
+      {{ partial "footer.html" . }}
     </div>
   </body>
 </html>
