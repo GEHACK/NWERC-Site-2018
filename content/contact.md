@@ -2,7 +2,7 @@
 title: "Contact"
 date: 2018-04-30T23:41:55+02:00
 draft: false
-sections_weight: 10000
+sections_weight: 10
 ---
 
 # Contact

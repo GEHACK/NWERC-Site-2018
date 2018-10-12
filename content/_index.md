@@ -1,6 +1,11 @@
 ## Welcome!
 Welcome to this very bare page of the NWERC, 2018; on this page, more information will appear quite soon, if you have any questions, please send us an email at contact "at" nwerc "dot" eu.
 
+
+
+## Website updated - [Oct 12<sup>th</sup>]
+The rules have been added, as has the system description.
+
 ## Website updated - [Sept 28<sup>th</sup>]
 The schedule has been added, references to the CFP removed, and jury fully added.
 
