@@ -10,6 +10,10 @@ The following is the preliminary schedule, it is very likely to change.
 <table style="width: 100%">
 	<th>Friday</th>
 	<tr>
+		<td>14:00 to 18:00</td>
+		<td>Team quiet room</td>
+	</tr>
+	<tr>
 		<td>17:00 to 22:00</td>
 		<td>Registration</td>
 	</tr>
