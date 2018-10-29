@@ -73,6 +73,10 @@ pre {
     color: #ffffff;
 }
 
+#menu .nav-link:hover {
+    color: #cccccc;
+}
+
 .no-top {
     margin-top: 0;
     padding-top: 0;
