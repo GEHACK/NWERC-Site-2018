@@ -67,19 +67,19 @@ The following is the preliminary schedule, it is very likely to change.
 	</tr>
 	<tr>
 		<td>12:00 to 13:00</td>
-		<td>Nordic Coaches' Meeting</td>
-	</tr>
-	<tr>
-		<td>12:00 to 13:00</td>
 		<td>UKIEPC Coaches' Meeting</td>
 	</tr>
 	<tr>
+		<td>12:00 to 13:00</td>
+		<td>Benelux Coaches' Meeting</td>
+	</tr>
+	<tr>
 		<td>13:00 to 14:00</td>
-		<td>GCPC Coaches' Meeting</td>
+		<td>Nordic Coaches' Meeting</td>
 	</tr>
 	<tr>
 		<td>14:00 to 15:00</td>
-		<td>Benelux Coaches' Meeting</td>
+		<td>GCPC Coaches' Meeting</td>
 	</tr>
 	<tr>
 		<td>15:00 to 17:00</td>

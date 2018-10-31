@@ -8,7 +8,7 @@ pre {
 
 #header {
     height: 300px;
-    background: url("img/header.jpg") no-repeat center;
+    background: url("/img/header.jpg") no-repeat center;
     background-size: cover;
     /* Add outline to text to make it more readable */
     text-shadow:
@@ -56,9 +56,8 @@ pre {
 }
 
 #header > div {
-    padding: 15px;
+    padding: 30px;
     color: white;
-    height: 100%;
 }
 
 #header h1, #header h3 {
@@ -107,7 +106,7 @@ th {
 
 #footer {
     margin-top: 70px;
-    background: url("img/footer-bg.png") repeat-x;
+    background: url("/img/footer-bg.png") repeat-x;
     background-size: contain;
 }
 
