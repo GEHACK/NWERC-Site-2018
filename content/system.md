@@ -18,7 +18,7 @@ During the contest, teams will submit proposed solutions to the contest problems
 <pre>g++ -x c++ -Wall -O2 -static -pipe -std=gnu++14 ${files}</pre>
 * Java 10 (OpenJDK, Java 10.0.2) 
 <pre>javac -encoding UTF-8 -sourcepath . -d . ${files}</pre>
-* PyPy 5.1.0 (= Python 2.7.13)
+* PyPy 5.10.0 (= Python 2.7.13)
 <pre>python2 -m py_compile ${files}</pre>
 * Python3 (3.7.0) 
 <pre>python3 -m py_compile ${files}</pre>
