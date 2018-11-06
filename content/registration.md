@@ -5,7 +5,7 @@ weight: 2
 draft: false
 ---
 # Registration
-The registration for the NWERC 2018 has now been opened, teams will be accepted starting Monday October 29<sup>th</sup>, they can already be promoted to the NWERC. Please do so at your earliest convenience; preference of which team(s) to accept first, can be emailed to kevin "at" nwerc "dot" eu. Local registration link will be published soon. Both will have to be completed before registration is final; all teams with known contact information will receive an email when this has been published.
+The registration for the NWERC 2018 has now been opened, teams will be accepted starting Monday October 29<sup>th</sup>, they can already be promoted to the NWERC. Please do so at your earliest convenience; preference of which team(s) to accept first, can be emailed to kevin "at" nwerc "dot" eu. Local registration link is avaliable [here](https://docs.google.com/forms/d/e/1FAIpQLSdchYMGG_dFsQdbtw_se62_8ry4mDFLL0gbO9cOZs2UqmX7Xg/viewform?usp=sf_link). Both will have to be completed before registration is final; all teams with known contact information will receive an email when this has been published.
 
 # Team Admission rules
 The following rules will be adhered to when accepting teams.
