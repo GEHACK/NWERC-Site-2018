@@ -9,6 +9,9 @@ When the contest has started an online scoreboard will be made avaiable here. A 
 
 
 <br /><br /><br /><br />
+### Website updated - [Nov 9<sup>th</sup>]
+All accepted teams have been listed on the registration page.
+
 ### Website updated - [Oct 12<sup>th</sup>]
 The rules have been added, as has the system description.
 
