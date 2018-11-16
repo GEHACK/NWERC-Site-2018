@@ -29,4 +29,4 @@ Teams are allowed to bring one keyboard to replace the keyboard provided by the 
 Keyboards and Team Reference Documents should be handed in at the registration.
 
 ## Programming Languages
-Allowed programming languages are C, C++, Java 10, Python (Python 3 and PyPy, similar to Python 2.0) and Kotlin 1.2.
+Allowed programming languages are C, C++, Java 10, Python (Python 3 and PyPy, similar to Python 2.0) and Kotlin 1.3.

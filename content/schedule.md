@@ -12,12 +12,12 @@ The following is the preliminary schedule, it is very likely to change.
 	<tr>
 		<td>14:00 to 18:00</td>
 		<td>Team quiet room</td>
-		<td><a href="https://goo.gl/maps/pVGoMNQWqU82">Metaform 7 & Metaforum 8</a></td>
+		<td><a href="https://goo.gl/maps/pVGoMNQWqU82">Metaform 2 & Metaforum 3</a></td>
 	</tr>
 	<tr>
 		<td>17:00 to 22:00</td>
 		<td>Registration</td>
-		<td><a href="https://goo.gl/maps/QmQBBtw1bKK2">Auditorium Aula (1st floor)</a></td>
+		<td><a href="https://goo.gl/maps/QmQBBtw1bKK2">Auditorium Registration desk, 1st floor (nw corner)</a></td>
 	</tr>
 	<tr><td colspan=2>&nbsp;</td></tr>
 	<th>Saturday</th>
@@ -38,18 +38,23 @@ The following is the preliminary schedule, it is very likely to change.
 	</tr>
 	<tr>
 		<td>12:00 to 13:00</td>
-		<td>Lunch</td>
-		<td><a href="https://goo.gl/maps/QmQBBtw1bKK2">Auditorium, "Blue room"</a></td>
+		<td>Lunch + Tech Talk</td>
+		<td><a href="https://goo.gl/maps/QmQBBtw1bKK2">Auditorium, Aula (1st floor)</a></td>
 	</tr>
 	<tr>
 		<td>13:00 to 14:00</td>
 		<td>Practice Session Results</td>
-		<td><a href="https://goo.gl/maps/QmQBBtw1bKK2">Auditorium, "Blue room"</a></td>
+		<td><a href="https://goo.gl/maps/QmQBBtw1bKK2">Auditorium, Aula (1st floor)</a></td>
 	</tr>
 	<tr>
-		<td>15:00 to 19:00</td>
+		<td>14:00 to 18:00</td>
 		<td>Social Activities</td>
 		<td><a href="https://goo.gl/maps/QmQBBtw1bKK2">Around Eindhoven</a></td>
+	</tr>
+	<tr>
+		<td>18:00 to 19:00</td>
+		<td>Tech Workshop</td>
+		<td><a href="https://goo.gl/maps/QmQBBtw1bKK2">Auditorium, Aula (1st floor)</a></td>
 	</tr>
 	<tr>
 		<td>19:00 to 22:30</td>
@@ -96,6 +101,6 @@ The following is the preliminary schedule, it is very likely to change.
 	<tr>
 		<td>15:00 to 17:00</td>
 		<td>Award Ceremony</td>
-		<td><a href="https://goo.gl/maps/QmQBBtw1bKK2">Auditorium, "Blue room"</a></td>
+		<td><a href="https://goo.gl/maps/QmQBBtw1bKK2">Auditorium, Aula (1st floor)</a></td>
 	</tr>
 </table>
