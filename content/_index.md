@@ -9,6 +9,9 @@ When the contest has started an online scoreboard will be made avaiable here. A 
 
 
 <br /><br /><br /><br />
+### Website updated - [Nov 18<sup>th</sup>]
+The DOMjudge team manual has been added to the [System](system) page.
+
 ### Website updated - [Nov 9<sup>th</sup>]
 All accepted teams have been listed on the registration page.
 

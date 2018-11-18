@@ -9,8 +9,10 @@ The following page contains the specifications for the contest machines, if you 
 
 # Image
 The image is based on Ubuntu 18.04.1 LTS, the following programs/tools are installed
+# Contest control system
+During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMjudge](https://www.domjudge.org) contest control system. The team manual for DOMjudge can be found [here](/files/team-manual.pdf).
 ## Compilation of submissions
-During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMJudge](https://www.domjudge.org) contest control system. Source files submitted to the Judges will be compiled using the following command line arguments for the respective language:
+Source files submitted to the Judges will be compiled using the following command line arguments for the respective language:
 
 * GCC 7.3.0 
 <pre>gcc -x c -Wall -O2 -static -pipe -std=gnu11 ${files} -lm</pre>
