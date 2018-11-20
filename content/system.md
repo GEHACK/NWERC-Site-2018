@@ -22,7 +22,7 @@ Source files submitted to the Judges will be compiled using the following comman
 <pre>javac -encoding UTF-8 -sourcepath . -d . ${files}</pre>
 * PyPy 5.10.0 (= Python 2.7.13)
 <pre>python2 -m py_compile ${files}</pre>
-* Python3 (3.7.0) 
+* Python3 (3.7.1) 
 <pre>python3 -m py_compile ${files}</pre>
 * Kotlin (1.3.0)
 <pre>kotlinc -d . ${files}</pre>
