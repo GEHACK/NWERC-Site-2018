@@ -3,12 +3,14 @@ Welcome to this very bare page of the NWERC, 2018; on this page, more informatio
 
 
 ## Scoreboard and public contest
-When the contest has started an online scoreboard will be made avaiable here. A public (semi-live) contest will be hosted by Kattis and is available [here](https://open.kattis.com/contests/nwerc18open); it will start 30 minutes after the official contest has started.
-
-
+When the contest has started an online scoreboard will be made available <a href="scoreboard/">here</a>.<br/>
+A public (semi-live) contest will be hosted by Kattis and is available [here](https://open.kattis.com/contests/nwerc18open); it will start 30 minutes after the official contest has started.
 
 
 <br /><br /><br /><br />
+### Website updated - [Nov 23<sup>th</sup>]
+You will be able to follow the practice session and the contest <a href="scoreboard/">here</a>.
+
 ### Website updated - [Nov 18<sup>th</sup>]
 The DOMjudge team manual has been added to the [System](system) page.
 
