@@ -6,8 +6,13 @@ Welcome to this very bare page of the NWERC, 2018; on this page, more informatio
 When the contest has started an online scoreboard will be made available <a href="scoreboard/">here</a>.<br/>
 A public (semi-live) contest will be hosted by Kattis and is available [here](https://open.kattis.com/contests/nwerc18open); it will start 30 minutes after the official contest has started.
 
+## Practice Session Material
+* [Practice Problemset (PDF)](/files/nwerc2018practice.pdf)
+* [Solution Presentation (PDF)](/files/nwerc2018practiceslides.pdf)
+* [Problem Packages (tar.bz2)](/files/nwerc2018practice.tar.bz2)
 
-<br /><br /><br /><br />
+<br />
+
 ### Practice problem set available - [Nov 24<sup>th</sup>]
 You can download the practice problem set [here](/files/nwerc2018practice.pdf).<br/>
 Follow the scoreboard <a href="scoreboard/">here</a>.
