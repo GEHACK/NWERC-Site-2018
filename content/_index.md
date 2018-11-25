@@ -1,6 +1,13 @@
 ## Welcome!
 Welcome to this very bare page of the NWERC, 2018; on this page, more information will appear quite soon, if you have any questions, please send us an email at contact "at" nwerc "dot" eu.
 
+## NWERC 2018 results
+* [Scoreboard](/scoreboard/)
+* [Problemset (PDF)](/files/nwerc2018problems.pdf)
+* [Solution Presentation (PDF)](/files/nwerc2018slides-handout.pdf)
+* [Problem Packages (tar.bz2)](/files/nwerc2018all.tar.bz2)
+
+<br />
 
 ## Scoreboard and public contest
 When the contest has started an online scoreboard will be made available <a href="scoreboard/">here</a>.<br/>
