@@ -13,6 +13,10 @@ A public (semi-live) contest will be hosted by Kattis and is available [here](ht
 
 <br />
 
+### NWERC 2018 problem set available - [Nov 25<sup>th</sup>]
+You can download the NWERC 2018 problem set [here](/files/nwerc2018problems.pdf).<br/>
+Follow the scoreboard <a href="scoreboard/">here</a>.
+
 ### Practice problem set available - [Nov 24<sup>th</sup>]
 You can download the practice problem set [here](/files/nwerc2018practice.pdf).<br/>
 Follow the scoreboard <a href="scoreboard/">here</a>.
